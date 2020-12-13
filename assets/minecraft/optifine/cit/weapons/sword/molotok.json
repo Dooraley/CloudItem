@@ -1,0 +1,68 @@
+{
+	"credit": "made Damfler ",
+	"textures": {
+		"0": "hats/cobblestone",
+		"1": "hats/oak_planks",
+		"particle": "hats/cobblestone"
+	},
+	"elements": [
+		{
+			"from": [7.2, -1, 7.2],
+			"to": [8.8, 12.6, 8.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.4, 9.4, 13.6]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.4, 8.6, 4],
+			"to": [9.6, 11.8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.4, 16.6, 14.4]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 10, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 10, 4], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 10], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-33.75, 0, 0],
+			"translation": [2.75, 3.25, -1.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-33.75, 0, 0],
+			"translation": [2.75, 3.25, -1.75]
+		},
+		"ground": {
+			"rotation": [0, 0, 90]
+		},
+		"gui": {
+			"rotation": [20.75, 41.25, 0],
+			"translation": [-0.5, 1.25, 0]
+		},
+		"head": {
+			"rotation": [-40.25, 0, 0],
+			"translation": [-7, -24, -1.25]
+		},
+		"fixed": {
+			"rotation": [53.75, -177.25, 1],
+			"translation": [0, 0, -4.25],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
