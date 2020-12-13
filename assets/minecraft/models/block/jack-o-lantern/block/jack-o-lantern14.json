@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/orientable",
-	"textures": {
-		"top": "block/white_pumpkin_top",
-		"front": "block/pumpkins/jack-o-lantern/14",
-		"side": "block/white_pumpkin"
-	}
-}
