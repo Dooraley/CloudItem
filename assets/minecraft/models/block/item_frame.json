@@ -1,0 +1,38 @@
+{
+	"credit": "made Damfler ",
+	"textures": {
+		"back": "standart/item_frame"
+	},
+	"elements": [
+		{
+			"from": [7, 7, 15.9],
+			"to": [9, 9, 15.9],
+			"faces": {
+				"north": {"uv": [7, 7, 9, 9], "texture": "#back"},
+				"south": {"uv": [4, 3, 12, 13], "texture": "#back"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2, -8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, -8.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-3.75, 8.25, -4.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [-3.75, 8.25, -4.25]
+		},
+		"head": {
+			"translation": [-1.5, 0.5, -25.75],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0, 0, -16.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}
