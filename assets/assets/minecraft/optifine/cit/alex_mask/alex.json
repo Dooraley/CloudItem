@@ -1,0 +1,188 @@
+{
+	"credit": "",
+	"textures": {
+		"0": "player_models/alex",
+		"particle": "player_models/alex"
+	},
+	"elements": [
+		{
+			"name": "mononokes_mask0",
+			"from": [5, 0.25, 3.6],
+			"to": [11, 0.75, 12.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 7.8]},
+			"faces": {
+				"north": {"uv": [2.5, 3.75, 3.75, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [2, 2, 2.25, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [4.5, 2.25, 5.75, 2.5], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [2, 2, 2.25, 4], "rotation": 90, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [2.5, 2, 3.5, 4], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask1",
+			"from": [11, 0.25, 5.1],
+			"to": [12.5, 0.75, 11.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 7.8]},
+			"faces": {
+				"north": {"uv": [2.5, 3.75, 3.75, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [2, 2, 2.25, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [4.5, 2.25, 4.75, 2.5], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [2, 2.25, 2.5, 3.75], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask2",
+			"from": [3.5, 0.25, 5.1],
+			"to": [5, 0.75, 11.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 7.8]},
+			"faces": {
+				"north": {"uv": [2.5, 3.75, 3.75, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [4.5, 2.25, 4.75, 2.5], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [2, 2, 2.25, 4], "rotation": 90, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [3.5, 2.25, 4, 3.75], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask3",
+			"from": [11, 0.25, 11.1],
+			"to": [12, 0.75, 12.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 7.8]},
+			"faces": {
+				"north": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [4.5, 2.25, 4.75, 2.5], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [4.5, 2.25, 4.75, 2.5], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [2, 2, 2.25, 2.25], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask4",
+			"from": [4, 0.25, 11.1],
+			"to": [5, 0.75, 12.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 7.8]},
+			"faces": {
+				"north": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [4.5, 2.25, 4.75, 2.5], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [4.5, 2.25, 4.75, 2.5], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [2, 2, 2.25, 2.25], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask5",
+			"from": [11, 0.25, 4.1],
+			"to": [12, 0.75, 5.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 7.8]},
+			"faces": {
+				"north": {"uv": [2.5, 3.75, 3.75, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [2.5, 3.75, 3.75, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [2, 3.5, 2.5, 4], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask6",
+			"from": [4, 0.25, 4.1],
+			"to": [5, 0.75, 5.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 7.8]},
+			"faces": {
+				"north": {"uv": [2.5, 3.75, 3.75, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [2.5, 3.75, 3.75, 4], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [3.5, 3.5, 4, 4], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask7",
+			"from": [12.25, -8.25, 8.6],
+			"to": [12.25, 0.25, 9.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 9.8]},
+			"faces": {
+				"north": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask8",
+			"from": [3.75, -8.25, 8.6],
+			"to": [3.75, 0.25, 9.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 9.8]},
+			"faces": {
+				"north": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "mononokes_mask9",
+			"from": [3.75, -8.25, 8.6],
+			"to": [12.25, -8.25, 9.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.575, 9.8]},
+			"faces": {
+				"north": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"east": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"up": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"down": {"uv": [7.25, 4.25, 8.5, 4.75], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 8, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [5, 6.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [5, 6.25, 0.25]
+		},
+		"ground": {
+			"rotation": [0, 0, -180],
+			"translation": [0, -10.75, 0]
+		},
+		"gui": {
+			"rotation": [-69.25, 0, 137],
+			"translation": [-7.5, -1.5, 0]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0.1, -0.5, -19.5],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15.5],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "mononokes_mask",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+		}
+	]
+}
