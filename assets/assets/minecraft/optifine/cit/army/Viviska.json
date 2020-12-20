@@ -1,0 +1,50 @@
+{
+	"credit": "by Damfler",
+	"textures": {
+		"0": "army/shema",
+		"particle": "army/shema"
+	},
+	"elements": [
+		{
+			"from": [-3, 1.875, 7.875],
+			"to": [19, 14.125, 8.125],
+			"rotation": {"angle": 0, "axis": "y", "origin": [19, 9.875, 15.375]},
+			"faces": {
+				"north": {"uv": [0, 0, 15, 8.2], "texture": "#0"},
+				"east": {"uv": [3, 9.8, 3, 9.8], "texture": "#0"},
+				"south": {"uv": [0, 9.6, 3.2, 12], "texture": "#0"},
+				"west": {"uv": [3, 9.8, 3, 9.8], "texture": "#0"},
+				"up": {"uv": [3, 9.8, 3, 9.8], "texture": "#0"},
+				"down": {"uv": [3, 9.8, 3, 9.8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [7, 11, -45],
+			"translation": [0.25, 0, -1],
+			"scale": [0.72, 0.72, 0.72]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [17, -88, 0],
+			"translation": [2.25, 0, 2],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"gui": {
+			"rotation": [28.5, 142.75, 0],
+			"translation": [0, -0.75, 0],
+			"scale": [0.71094, 0.71094, 0.71094]
+		},
+		"head": {
+			"translation": [2, 2.25, -7]
+		},
+		"fixed": {
+			"scale": [3.02, 2.59, 2.62]
+		}
+	}
+}
