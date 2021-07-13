@@ -3,7 +3,7 @@
 
 ---
 
-![Logo](https://github.com/Dooraley/CloudItem/blob/bbmodels/logo.png?raw=true "CloudItem")
+![Logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bde26123389155.60ed90492ce4b.png "CloudItem")
 
 ---
 
