@@ -1,9 +1,9 @@
 {
-	"credit": "",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "block/black_concrete",
-		"1_4": "block/brown_concrete",
-		"particle": "block/black_concrete"
+		"1": "block/black_concrete",
+		"particle": "block/black_concrete",
+		"1_4": "block/brown_concrete"
 	},
 	"elements": [
 		{
@@ -118,24 +118,24 @@
 			"from": [9.85, 9.4, -0.55],
 			"to": [14.85, 12.2, -0.15],
 			"faces": {
-				"north": {"uv": [1.15, 3.8, 6.15, 6.6], "texture": "#3"},
-				"east": {"uv": [16, 3.8, 16, 6.6], "texture": "#missing"},
-				"south": {"uv": [9.85, 3.8, 14.85, 6.6], "texture": "#missing"},
-				"west": {"uv": [0, 3.8, 0, 6.6], "texture": "#missing"},
-				"up": {"uv": [9.85, 0, 14.85, 0], "texture": "#missing"},
-				"down": {"uv": [9.85, 16, 14.85, 16], "texture": "#missing"}
+				"north": {"uv": [1.15, 3.8, 6.15, 6.6], "texture": "#1"},
+				"east": {"uv": [1.15, 3.8, 6.15, 6.6], "texture": "#1"},
+				"south": {"uv": [1.15, 3.8, 6.15, 6.6], "texture": "#1"},
+				"west": {"uv": [1.15, 3.8, 6.15, 6.6], "texture": "#1"},
+				"up": {"uv": [1.15, 3.8, 6.15, 6.6], "texture": "#1"},
+				"down": {"uv": [1.15, 3.8, 6.15, 6.6], "texture": "#1"}
 			}
 		},
 		{
 			"from": [1.65, 9.4, -0.55],
 			"to": [6.65, 12.2, -0.15],
 			"faces": {
-				"north": {"uv": [9.35, 3.8, 14.35, 6.6], "texture": "#3"},
-				"east": {"uv": [16, 3.8, 16, 6.6], "texture": "#missing"},
-				"south": {"uv": [1.65, 3.8, 6.65, 6.6], "texture": "#missing"},
-				"west": {"uv": [0, 3.8, 0, 6.6], "texture": "#missing"},
-				"up": {"uv": [1.65, 0, 6.65, 0], "texture": "#missing"},
-				"down": {"uv": [1.65, 16, 6.65, 16], "texture": "#missing"}
+				"north": {"uv": [9.35, 3.8, 14.35, 6.6], "texture": "#1"},
+				"east": {"uv": [9.35, 3.8, 14.35, 6.6], "texture": "#1"},
+				"south": {"uv": [9.35, 3.8, 14.35, 6.6], "texture": "#1"},
+				"west": {"uv": [9.35, 3.8, 14.35, 6.6], "texture": "#1"},
+				"up": {"uv": [9.35, 3.8, 14.35, 6.6], "texture": "#1"},
+				"down": {"uv": [9.35, 3.8, 14.35, 6.6], "texture": "#1"}
 			}
 		}
 	],
@@ -173,8 +173,8 @@
 			"scale": [0.98, 0.95, 0.92]
 		},
 		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 0.25, -7.5]
+			"rotation": [-69, 0, 0],
+			"translation": [0, 0.25, 3.75]
 		}
 	},
 	"groups": [

@@ -1,9 +1,8 @@
 {
-	"credit": "made Damfler ",
+	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "basic_staff/basic_staff",
-		"1": "rune_staff/rune_staff",
-		"2": "staff_effects/staff_effect_charged_cross_firework",
+		"1": "rune/rune_staff",
+		"2": "rune/staff_effect_charged_cross_firework",
 		"particle": "basic_staff/basic_staff"
 	},
 	"elements": [
@@ -12,12 +11,12 @@
 			"to": [9, 19, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 15]},
 			"faces": {
-				"north": {"uv": [0, 0, 5, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 5, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 5, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 5, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+				"north": {"uv": [9, 0, 10, 6], "texture": "#1"},
+				"east": {"uv": [9, 0, 10, 6], "texture": "#1"},
+				"south": {"uv": [9, 0, 10, 6], "texture": "#1"},
+				"west": {"uv": [9, 0, 10, 6], "texture": "#1"},
+				"up": {"uv": [9, 0, 10, 6], "texture": "#1"},
+				"down": {"uv": [9, 0, 10, 6], "texture": "#1"}
 			}
 		},
 		{
