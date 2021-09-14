@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "rusenonstatua/e040304aa95a8113",
-		"2": "rusenonstatua/загруженное",
-		"3": "rusenonstatua/загруженное (1)",
+		"2": "block/stone",
+		"3": "block/stone_bricks",
 		"4": "rusenonstatua/texture",
 		"particle": "rusenonstatua/texture"
 	},
