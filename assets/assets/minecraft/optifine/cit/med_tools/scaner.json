@@ -1,10 +1,11 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Dooraley",
+	"texture_size": [32, 32],
 	"textures": {
 		"0": "scaner/scaner1",
 		"1": "scaner/loading",
 		"2": "scaner/scaner2",
-		"particle": "block/texture"
+		"particle": "./block/texture"
 	},
 	"elements": [
 		{
@@ -86,14 +87,14 @@
 			}
 		},
 		{
-			"from": [2.7499, 7.375, 7.375],
-			"to": [3.2499, 8.875, 9.625],
+			"from": [2.7499, 7.175, 7.475],
+			"to": [3.2499, 8.675, 9.725],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [9, 2.5, 18.5]},
 			"faces": {
 				"north": {"uv": [2.5, 15.5, 4, 16], "texture": "#0"},
 				"east": {"uv": [2.5, 15.5, 4, 16], "texture": "#0"},
 				"south": {"uv": [2.5, 15.5, 4, 16], "texture": "#0"},
-				"west": {"uv": [0, 0.5, 13.5, 10.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"up": {"uv": [2.5, 15.5, 4, 16], "texture": "#0"},
 				"down": {"uv": [2.5, 15.5, 4, 16], "texture": "#0"}
 			}
