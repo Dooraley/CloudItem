@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Артур/Без названия (92)",
-		"1": "стекла/glass_orange",
-		"2": "block/texture",
-		"3": "Desktop/yellow_concrete_powder",
-		"particle": "Артур/Без названия (92)"
+		"0": "b_w/etiketka",
+		"1": "b_w/b_w",
+		"2": "b_w/b_w1",
+		"3": "b_w/b_w2",
+		"particle": "b_w/etiketka"
 	},
 	"elements": [
 		{
