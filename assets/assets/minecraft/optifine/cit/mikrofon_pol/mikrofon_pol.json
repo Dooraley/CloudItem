@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./block/cyan_terracotta",
-		"1": "./block/black_concrete",
-		"2": "./block/light_gray_concrete",
-		"3": "./block/gray_concrete_powder",
-		"5": "./block/black_concrete_powder",
-		"6": "./block/lime_terracotta",
-		"7": "./block/light_blue_terracotta_s",
-		"particle": "./block/cyan_terracotta"
+		"0": "block/cyan_terracotta",
+		"1": "block/black_concrete",
+		"2": "block/light_gray_concrete",
+		"3": "block/gray_concrete_powder",
+		"5": "block/black_concrete_powder",
+		"6": "block/lime_terracotta",
+		"7": "block/light_blue_terracotta_s",
+		"particle": "block/cyan_terracotta"
 	},
 	"elements": [
 		{
