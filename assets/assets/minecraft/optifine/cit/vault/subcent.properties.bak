@@ -1,4 +1,4 @@
 type=item
-matchItems=pig_spawn_egg
+matchItems=PIG_SPAWN_EGG
 model=subcent
 nbt.CustomModelData=1

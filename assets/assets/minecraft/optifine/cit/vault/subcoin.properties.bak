@@ -1,4 +1,4 @@
 type=item
-matchItems=cave_spider_spawn_egg
+matchItems=CAVE_SPIDER_SPAWN_EGG
 model=subcoin
 nbt.CustomModelData=1
