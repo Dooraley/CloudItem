@@ -1,13 +1,1 @@
-{
-    "providers": [
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/extra.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": [
-                "\uD83E\uDDE2\uD83D\uDC5F\u2020\uD83D\uDEE1"
-            ]
-        }
-    ]
-}
+{"providers":[{"file":"sl:font/images/logo.png","chars":[""],"height":80,"ascent":56,"type":"bitmap"}]}
