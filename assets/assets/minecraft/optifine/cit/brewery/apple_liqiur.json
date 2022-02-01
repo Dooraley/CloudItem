@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "appl_l/etiketka",
-		"1": "appl_l/appl2",
+		"1": "appl_l/appl3",
 		"2": "appl_l/appl1",
-		"3": "appl_l/appl3",
+		"3": "appl_l/appl2",
 		"particle": "appl_l/etiketka"
 	},
 	"elements": [

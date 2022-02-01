@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/iron_block",
 		"1": "block/gray_concrete",
-		"3": "cmd_blocks/chain_command_block_back",
+		"3": "block/chain_command_block_back",
 		"particle": "block/iron_block"
 	},
 	"elements": [

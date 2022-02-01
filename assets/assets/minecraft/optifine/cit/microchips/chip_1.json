@@ -1,11 +1,11 @@
 {
 	"credit": "Dooraley",
 	"textures": {
-		"0": "cmd_blocks/chain_command_block_back",
+		"0": "block/chain_command_block_back",
 		"1": "block/gray_concrete",
 		"2": "block/red_concrete",
 		"3": "block/blue_concrete",
-		"particle": "cmd_blocks/chain_command_block_back"
+		"particle": "block/chain_command_block_back"
 	},
 	"elements": [
 		{
