@@ -1,9 +1,1 @@
-{
-  "entity.ghast.shoot": {
-    "sounds": [
-      "ghast/shoot"
-    ],
-    "subtitle": "subtitles.entity.ghast.shoot",
-	"replace": "true"
-  }
-}
+{"entity.ghast.shoot":{"replace":"true","sounds":["ghast/shoot"],"subtitle":"subtitles.entity.ghast.shoot"}}
