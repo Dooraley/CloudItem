@@ -1,4 +1,0 @@
-type=item
-matchItems=PIG_SPAWN_EGG
-model=subcent
-nbt.CustomModelData=1
