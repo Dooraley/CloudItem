@@ -1,4 +1,0 @@
-type=item
-matchItems=CAVE_SPIDER_SPAWN_EGG
-model=subcoin
-nbt.CustomModelData=1
