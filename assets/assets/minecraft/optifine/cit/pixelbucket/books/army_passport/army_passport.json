@@ -37,7 +37,7 @@
 			"to": [12.5, 0.5, 11],
 			"faces": {
 				"north": {"uv": [2.5, 12.5, 2.5, 12.5], "texture": "#0"},
-				"east": {"uv": [-0.5, 12.5, 2.5, 12.5], "texture": "#0"},
+				"east": {"uv": [5.5, 12.5, 8.5, 13], "texture": "#0"},
 				"south": {"uv": [5.5, 12.5, 5.5, 12.5], "texture": "#0"},
 				"west": {"uv": [2.5, 12.5, 5.5, 12.5], "texture": "#0"},
 				"up": {"uv": [2.5, 12.5, 2.5, 9.5], "texture": "#0"},
@@ -71,6 +71,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [85, -180, 0],
