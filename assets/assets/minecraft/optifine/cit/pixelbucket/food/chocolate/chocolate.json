@@ -1,0 +1,51 @@
+{
+	"credit": "Animun4ik",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./chocolate",
+		"particle": "./chocolate"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 8],
+			"to": [11, 11, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 5.5], "texture": "#0"},
+				"east": {"uv": [0, 5.5, 0.5, 11], "texture": "#0"},
+				"south": {"uv": [3, 0, 6, 5.5], "texture": "#0"},
+				"west": {"uv": [0.5, 5.5, 1, 11], "texture": "#0"},
+				"up": {"uv": [4, 6, 1, 5.5], "texture": "#0"},
+				"down": {"uv": [7, 5.5, 4, 6], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"scale": [0.94, 0.94, 0.94]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.94, 0.94, 0.94]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [-24, 30, 0],
+			"translation": [-0.25, 2.25, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"fixed": {
+			"translation": [0, 4, -0.5],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

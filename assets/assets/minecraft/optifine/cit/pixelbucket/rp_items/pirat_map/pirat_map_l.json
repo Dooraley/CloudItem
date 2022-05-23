@@ -1,0 +1,74 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./pirat_map_l",
+		"particle": "./pirat_map_l"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 0],
+			"to": [12, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"up": {"uv": [6, 8, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 8, 2, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 0, 0],
+			"to": [16, 0, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [12, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"up": {"uv": [2, 8, 0, 0], "texture": "#0"},
+				"down": {"uv": [2, 8, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [4, 0, 16],
+			"rotation": {"angle": -45, "axis": "z", "origin": [4, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#0"},
+				"up": {"uv": [8, 8, 6, 0], "texture": "#0"},
+				"down": {"uv": [8, 8, 6, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [125, -180, 0],
+			"translation": [-6.25, 1.5, 8.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [125, -180, 0],
+			"translation": [-6.25, 1.5, 8.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [64, -180, 0],
+			"translation": [-9, 4, 6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [64, -180, 0],
+			"translation": [-9, 4, 6]
+		},
+		"ground": {
+			"translation": [0, 6.5, 0]
+		},
+		"gui": {
+			"rotation": [-107, 30, 176],
+			"translation": [-0.25, 1.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

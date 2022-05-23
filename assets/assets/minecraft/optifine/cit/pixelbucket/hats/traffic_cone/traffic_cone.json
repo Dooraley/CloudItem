@@ -1,0 +1,73 @@
+{
+	"credit": "Animun4ik",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "./traffic_cone"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 1, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+			"faces": {
+				"north": {"uv": [10, 0, 14, 0.5], "texture": "#1"},
+				"east": {"uv": [10, 0.5, 14, 1], "texture": "#1"},
+				"south": {"uv": [10, 1, 14, 1.5], "texture": "#1"},
+				"west": {"uv": [10, 1.5, 14, 2], "texture": "#1"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#1"},
+				"down": {"uv": [4, 4, 0, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 1, 5],
+			"to": [11, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 1, 5]},
+			"faces": {
+				"north": {"uv": [4, 6, 7, 8.5], "texture": "#1"},
+				"east": {"uv": [7, 0, 10, 2.5], "texture": "#1"},
+				"south": {"uv": [7, 2.5, 10, 5], "texture": "#1"},
+				"west": {"uv": [7, 5, 10, 7.5], "texture": "#1"},
+				"up": {"uv": [7, 3, 4, 0], "texture": "#1"},
+				"down": {"uv": [7, 3, 4, 6], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 6, 6],
+			"to": [10, 11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 6, 5]},
+			"faces": {
+				"north": {"uv": [7, 7.5, 9, 10], "texture": "#1"},
+				"east": {"uv": [0, 8, 2, 10.5], "texture": "#1"},
+				"south": {"uv": [2, 8, 4, 10.5], "texture": "#1"},
+				"west": {"uv": [4, 8.5, 6, 11], "texture": "#1"},
+				"up": {"uv": [11, 9.5, 9, 7.5], "texture": "#1"},
+				"down": {"uv": [11, 9.5, 9, 11.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4.25, -2.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2.25, -2.75]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"gui": {
+			"rotation": [29, -45, 0],
+			"translation": [0, 2.75, 0]
+		},
+		"head": {
+			"translation": [0, 20.5, 0],
+			"scale": [1.85, 1.85, 1.85]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -15.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}

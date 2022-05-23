@@ -1,0 +1,62 @@
+{
+	"credit": "Animun4ik",
+	"texture_size": [32, 16],
+	"textures": {
+		"0": "./toaster",
+		"particle": "./toaster"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 3],
+			"to": [11, 7, 13],
+			"faces": {
+				"north": {"uv": [3.5, 0, 7, 7], "texture": "#0"},
+				"east": {"uv": [7, 0, 12, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 3.5, 7], "texture": "#0"},
+				"west": {"uv": [12, 0, 7, 7], "texture": "#0"},
+				"up": {"uv": [12, 0, 15.5, 10], "texture": "#0"},
+				"down": {"uv": [0, 7, 5, 14], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 3, 13],
+			"to": [11, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1.5, 0], "texture": "#missing"},
+				"up": {"uv": [5, 7, 8.5, 10], "texture": "#0"},
+				"down": {"uv": [5, 10, 8.5, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [38, -180, 0],
+			"translation": [-1, 4, 0],
+			"scale": [0.86, 0.86, 0.86]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [91, 0, 0],
+			"translation": [0, -1.5, 5.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_lefthand": {
+			"rotation": [97, 0, 0],
+			"translation": [0, -2.25, 3.75]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"gui": {
+			"rotation": [41, -59, 0],
+			"translation": [0.75, 2.75, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [1, 0, -14.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}
