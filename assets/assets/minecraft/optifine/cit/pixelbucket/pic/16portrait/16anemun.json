@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./16Anemun",
-		"particle": "./16Anemun"
+		"0": "./16anemun",
+		"particle": "./16anemun"
 	},
 	"elements": [
 		{
